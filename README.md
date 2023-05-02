@@ -19,7 +19,3 @@ The SQL Server project includes the following features:
 To use the SQL Server project, download the project files and open them in SQL Server Management Studio (SSMS). The project includes SQL files that contain the queries used to analyze the data, as well as an SSRS report that visualizes some of the data. 
 
 You can run the queries to explore the data and gain insights into the impact of COVID-19 around the world. You can also modify the queries to focus on specific countries or regions of interest.
-
-## License
-
-This project is licensed under the MIT License. Feel free to modify and distribute the project as needed, but please include a link back to this GitHub repository.
