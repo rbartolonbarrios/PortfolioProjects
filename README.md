@@ -12,10 +12,10 @@ The SQL Server project includes the following features:
 
 - Queries that show total cases over total deaths, infection rate in a given country, countries with the highest death count per population, continents with the highest death count per population, and the percentage of population that is vaccinated.
 - Use of SQL Server features such as Group By, Order By, Partitions, Joins, CTEs, and Temp Tables to analyze the data and gain insights.
-- Visualizations of the data using SQL Server Reporting Services (SSRS).
+- Visualizations of the data using Tableau [COVID Dashboard](https://public.tableau.com/app/profile/randy.bartolon.barrios6073/viz/COVIDDashboard_16811660536850/Dashboard1)
 
 ## How to Use the Project
 
-To use the SQL Server project, download the project files and open them in SQL Server Management Studio (SSMS). The project includes SQL files that contain the queries used to analyze the data, as well as an SSRS report that visualizes some of the data. 
+To use the SQL Server project, download the project files and open them in SQL Server Management Studio (SSMS). The project includes SQL files that contain the queries used to analyze the data.
 
 You can run the queries to explore the data and gain insights into the impact of COVID-19 around the world. You can also modify the queries to focus on specific countries or regions of interest.
